@@ -33,8 +33,8 @@ tett:
 <html>
     <title>
         <h1>Good</h1>
-    </title>>
-</html>>
+    </title>
+</html>
 ```
 ### 3.1. head
 ```html
