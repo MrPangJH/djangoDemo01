@@ -4,7 +4,7 @@
    - [1.yaml](#1-yaml)   
    - [2.json](#2-json)  
    - [3.html](#3-html)  
-   -  -  [3.1 head](#31-head)
+     -  [3.1 head](#31-head)
    
 ------
 ## 1. yaml
