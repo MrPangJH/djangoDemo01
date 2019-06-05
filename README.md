@@ -1,6 +1,8 @@
 # djangoDemo01
 
-autoauto- [djangoDemo01](#djangodemo01)auto    - [1.yaml](#1yaml)auto    - [2.json](#2json)autoauto
+[djangoDemo01](#djangodemo01)  
+   - [1.yaml](#1yaml)   
+   - [2.json](#2json)
 ## 1.yaml
 ```yaml
 tett:
@@ -22,9 +24,11 @@ tett:
 }
 ```
 ------
-1. bbc
-2. bbc
-3. ccb
-------
-everybody
-everything
+## 3.html
+```html
+<html>
+    <title>
+        <h1>Good</h1>
+    </title>>
+</html>>
+```
